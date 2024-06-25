@@ -26,7 +26,7 @@ Fiji, ThunderSTORM, and the data ( !! needs to be done before the workshop !! )
   - place it in Fiji's plug-in folder
 
 + **start Fiji/ImageJ**
-  - **on Windows** it should be `<path>\Fiji\Fiji.app\ImageJ-win64.exe` (not "Fiji"!).
+  - **on Windows** it should be `Fiji.app\ImageJ-win64.exe` (not "Fiji"!).
   - **on MacOS** it is just the package you extracted from the zip folder.
   - check that `Plugins > ThunderSTORM` exists in the Menu bar.
 
